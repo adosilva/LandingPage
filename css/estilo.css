@@ -236,7 +236,7 @@ h1 {
 }
 
 .texto-endereco p {
-    width: 400px;
+    width: auto;
     font-size: 20px;
 }
 .container-mapa {
